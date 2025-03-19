@@ -1,6 +1,6 @@
 
 
-Instrucciones de Uso 📖📚
+Instrucciones de Uso 📚
 
 1. Ejecuta el script `main.py` en tu entorno de Python.
 2. Selecciona una letra para adivinar la palabra oculta.
